@@ -1,2 +1,2 @@
-# rbxl-devconsole-framework
+# Roblox-DeveloperConsole
 A simple framework for adding console commands
